@@ -1,0 +1,34 @@
+name: Atualizar Copa
+
+on:
+  schedule:
+    # A cada 30 min. Horários em UTC (Brasília = UTC-3).
+    # (o GitHub pode atrasar alguns minutos; o script só grava se algo mudou)
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}      # botão "Run workflow" para atualizar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: copa
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buscar dados na Sleeper e gerar o site
+        run: python copa.py update
+      - name: Salvar mudanças
+        run: |
+          git config user.name "copa-bot"
+          git config user.email "copa-bot@users.noreply.github.com"
+          git add -A docs
+          if [ -d state ]; then git add -A state; fi
+          git diff --cached --quiet || git commit -m "Atualiza placares"
+          git push
