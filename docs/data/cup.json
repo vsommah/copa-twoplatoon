@@ -1,0 +1,3462 @@
+{
+ "generated_at": "2026-10-13T13:56:17+00:00",
+ "season": 2026,
+ "title": "Copa TwoPlatoon",
+ "nfl_week": 6,
+ "seeds_frozen": true,
+ "teams": {
+  "A1": {
+   "id": "A1",
+   "series": "A",
+   "seed": 1,
+   "label": "1-A",
+   "name": "Bragil",
+   "owner": "Bragil",
+   "roster_id": 7,
+   "record": "4-1",
+   "pf_seed": 1351.63
+  },
+  "A2": {
+   "id": "A2",
+   "series": "A",
+   "seed": 2,
+   "label": "2-A",
+   "name": "Placa na Caveira",
+   "owner": "Rodra26",
+   "roster_id": 8,
+   "record": "4-1",
+   "pf_seed": 1285.17
+  },
+  "A3": {
+   "id": "A3",
+   "series": "A",
+   "seed": 3,
+   "label": "3-A",
+   "name": "HÜGHNARØK",
+   "owner": "Kaveira",
+   "roster_id": 2,
+   "record": "4-1",
+   "pf_seed": 1241.34
+  },
+  "A4": {
+   "id": "A4",
+   "series": "A",
+   "seed": 4,
+   "label": "4-A",
+   "name": "Dream Team",
+   "owner": "Allannn",
+   "roster_id": 10,
+   "record": "3-2",
+   "pf_seed": 1340.49
+  },
+  "A5": {
+   "id": "A5",
+   "series": "A",
+   "seed": 5,
+   "label": "5-A",
+   "name": "Direful Teachers",
+   "owner": "vsommah",
+   "roster_id": 1,
+   "record": "3-2",
+   "pf_seed": 1272.09
+  },
+  "A6": {
+   "id": "A6",
+   "series": "A",
+   "seed": 6,
+   "label": "6-A",
+   "name": "TioDab",
+   "owner": "TioDab",
+   "roster_id": 12,
+   "record": "3-2",
+   "pf_seed": 1246.12
+  },
+  "A7": {
+   "id": "A7",
+   "series": "A",
+   "seed": 7,
+   "label": "7-A",
+   "name": "KriguerAntunes",
+   "owner": "KriguerAntunes",
+   "roster_id": 6,
+   "record": "3-2",
+   "pf_seed": 1008.5
+  },
+  "A8": {
+   "id": "A8",
+   "series": "A",
+   "seed": 8,
+   "label": "8-A",
+   "name": "Droid Hunters",
+   "owner": "Handreos",
+   "roster_id": 4,
+   "record": "2-3",
+   "pf_seed": 1165.68
+  },
+  "A9": {
+   "id": "A9",
+   "series": "A",
+   "seed": 9,
+   "label": "9-A",
+   "name": "Manga5",
+   "owner": "Manga5",
+   "roster_id": 11,
+   "record": "2-3",
+   "pf_seed": 1107.21
+  },
+  "A10": {
+   "id": "A10",
+   "series": "A",
+   "seed": 10,
+   "label": "10-A",
+   "name": "WuTeam",
+   "owner": "pedropennachi",
+   "roster_id": 3,
+   "record": "2-3",
+   "pf_seed": 1097.62
+  },
+  "A11": {
+   "id": "A11",
+   "series": "A",
+   "seed": 11,
+   "label": "11-A",
+   "name": "Wasted Years",
+   "owner": "chmenegatti",
+   "roster_id": 5,
+   "record": "0-5",
+   "pf_seed": 1073.72
+  },
+  "A12": {
+   "id": "A12",
+   "series": "A",
+   "seed": 12,
+   "label": "12-A",
+   "name": "Lutfi Lycans",
+   "owner": "renelutfi",
+   "roster_id": 9,
+   "record": "0-5",
+   "pf_seed": 1062.48
+  },
+  "B1": {
+   "id": "B1",
+   "series": "B",
+   "seed": 1,
+   "label": "1-B",
+   "name": "packertricolor",
+   "owner": "packertricolor",
+   "roster_id": 2,
+   "record": "4-1",
+   "pf_seed": 1304.01
+  },
+  "B2": {
+   "id": "B2",
+   "series": "B",
+   "seed": 2,
+   "label": "2-B",
+   "name": "Buenos Aires Soldiers",
+   "owner": "AndreasGranado",
+   "roster_id": 4,
+   "record": "4-1",
+   "pf_seed": 1167.64
+  },
+  "B3": {
+   "id": "B3",
+   "series": "B",
+   "seed": 3,
+   "label": "3-B",
+   "name": "MorandiHawks",
+   "owner": "MorandiHawks",
+   "roster_id": 12,
+   "record": "3-2",
+   "pf_seed": 1268.11
+  },
+  "B4": {
+   "id": "B4",
+   "series": "B",
+   "seed": 4,
+   "label": "4-B",
+   "name": "Ravengers",
+   "owner": "Canastrao",
+   "roster_id": 8,
+   "record": "3-2",
+   "pf_seed": 1208.54
+  },
+  "B5": {
+   "id": "B5",
+   "series": "B",
+   "seed": 5,
+   "label": "5-B",
+   "name": "ACosta13",
+   "owner": "ACosta13",
+   "roster_id": 9,
+   "record": "3-2",
+   "pf_seed": 1017.56
+  },
+  "B6": {
+   "id": "B6",
+   "series": "B",
+   "seed": 6,
+   "label": "6-B",
+   "name": "MacedoSeahawks",
+   "owner": "MacedoSeahawks",
+   "roster_id": 11,
+   "record": "2-3",
+   "pf_seed": 1233.81
+  },
+  "B7": {
+   "id": "B7",
+   "series": "B",
+   "seed": 7,
+   "label": "7-B",
+   "name": "mathestevo",
+   "owner": "mathestevo",
+   "roster_id": 7,
+   "record": "2-3",
+   "pf_seed": 1221.9
+  },
+  "B8": {
+   "id": "B8",
+   "series": "B",
+   "seed": 8,
+   "label": "8-B",
+   "name": "helinhob",
+   "owner": "helinhob",
+   "roster_id": 6,
+   "record": "2-3",
+   "pf_seed": 1153.58
+  },
+  "B9": {
+   "id": "B9",
+   "series": "B",
+   "seed": 9,
+   "label": "9-B",
+   "name": "Lecollas",
+   "owner": "Lecollas",
+   "roster_id": 3,
+   "record": "2-3",
+   "pf_seed": 1144.13
+  },
+  "B10": {
+   "id": "B10",
+   "series": "B",
+   "seed": 10,
+   "label": "10-B",
+   "name": "Cleytxs",
+   "owner": "Cleytxs",
+   "roster_id": 5,
+   "record": "2-3",
+   "pf_seed": 1111.51
+  },
+  "B11": {
+   "id": "B11",
+   "series": "B",
+   "seed": 11,
+   "label": "11-B",
+   "name": "GORDINHAS AJEITADAS",
+   "owner": "Dedi",
+   "roster_id": 1,
+   "record": "2-3",
+   "pf_seed": 1084.94
+  },
+  "B12": {
+   "id": "B12",
+   "series": "B",
+   "seed": 12,
+   "label": "12-B",
+   "name": "alecromwell13",
+   "owner": "alecromwell13",
+   "roster_id": 10,
+   "record": "1-4",
+   "pf_seed": 1104.34
+  },
+  "C1": {
+   "id": "C1",
+   "series": "C",
+   "seed": 1,
+   "label": "1-C",
+   "name": "packertricolor",
+   "owner": "packertricolor",
+   "roster_id": 2,
+   "record": "4-1",
+   "pf_seed": 1304.01
+  },
+  "C2": {
+   "id": "C2",
+   "series": "C",
+   "seed": 2,
+   "label": "2-C",
+   "name": "Buenos Aires Soldiers",
+   "owner": "AndreasGranado",
+   "roster_id": 4,
+   "record": "4-1",
+   "pf_seed": 1167.64
+  },
+  "C3": {
+   "id": "C3",
+   "series": "C",
+   "seed": 3,
+   "label": "3-C",
+   "name": "MorandiHawks",
+   "owner": "MorandiHawks",
+   "roster_id": 12,
+   "record": "3-2",
+   "pf_seed": 1268.11
+  },
+  "C4": {
+   "id": "C4",
+   "series": "C",
+   "seed": 4,
+   "label": "4-C",
+   "name": "Ravengers",
+   "owner": "Canastrao",
+   "roster_id": 8,
+   "record": "3-2",
+   "pf_seed": 1208.54
+  },
+  "C5": {
+   "id": "C5",
+   "series": "C",
+   "seed": 5,
+   "label": "5-C",
+   "name": "ACosta13",
+   "owner": "ACosta13",
+   "roster_id": 9,
+   "record": "3-2",
+   "pf_seed": 1017.56
+  },
+  "C6": {
+   "id": "C6",
+   "series": "C",
+   "seed": 6,
+   "label": "6-C",
+   "name": "MacedoSeahawks",
+   "owner": "MacedoSeahawks",
+   "roster_id": 11,
+   "record": "2-3",
+   "pf_seed": 1233.81
+  },
+  "C7": {
+   "id": "C7",
+   "series": "C",
+   "seed": 7,
+   "label": "7-C",
+   "name": "mathestevo",
+   "owner": "mathestevo",
+   "roster_id": 7,
+   "record": "2-3",
+   "pf_seed": 1221.9
+  },
+  "C8": {
+   "id": "C8",
+   "series": "C",
+   "seed": 8,
+   "label": "8-C",
+   "name": "helinhob",
+   "owner": "helinhob",
+   "roster_id": 6,
+   "record": "2-3",
+   "pf_seed": 1153.58
+  },
+  "C9": {
+   "id": "C9",
+   "series": "C",
+   "seed": 9,
+   "label": "9-C",
+   "name": "Lecollas",
+   "owner": "Lecollas",
+   "roster_id": 3,
+   "record": "2-3",
+   "pf_seed": 1144.13
+  },
+  "C10": {
+   "id": "C10",
+   "series": "C",
+   "seed": 10,
+   "label": "10-C",
+   "name": "Cleytxs",
+   "owner": "Cleytxs",
+   "roster_id": 5,
+   "record": "2-3",
+   "pf_seed": 1111.51
+  },
+  "C11": {
+   "id": "C11",
+   "series": "C",
+   "seed": 11,
+   "label": "11-C",
+   "name": "GORDINHAS AJEITADAS",
+   "owner": "Dedi",
+   "roster_id": 1,
+   "record": "2-3",
+   "pf_seed": 1084.94
+  },
+  "C12": {
+   "id": "C12",
+   "series": "C",
+   "seed": 12,
+   "label": "12-C",
+   "name": "alecromwell13",
+   "owner": "alecromwell13",
+   "roster_id": 10,
+   "record": "1-4",
+   "pf_seed": 1104.34
+  },
+  "D1": {
+   "id": "D1",
+   "series": "D",
+   "seed": 1,
+   "label": "1-D",
+   "name": "Green Bay Cheek Clappers",
+   "owner": "lucianooliveira21",
+   "roster_id": 2,
+   "record": "5-0",
+   "pf_seed": 1234.12
+  },
+  "D2": {
+   "id": "D2",
+   "series": "D",
+   "seed": 2,
+   "label": "2-D",
+   "name": "Piracicaba Ravens",
+   "owner": "IscadeTubarao",
+   "roster_id": 3,
+   "record": "4-1",
+   "pf_seed": 1232.41
+  },
+  "D3": {
+   "id": "D3",
+   "series": "D",
+   "seed": 3,
+   "label": "3-D",
+   "name": "ZekMVP2022",
+   "owner": "ZekMVP2022",
+   "roster_id": 8,
+   "record": "3-2",
+   "pf_seed": 1268.34
+  },
+  "D4": {
+   "id": "D4",
+   "series": "D",
+   "seed": 4,
+   "label": "4-D",
+   "name": "Osasco Pigeons",
+   "owner": "Duquefde",
+   "roster_id": 12,
+   "record": "3-2",
+   "pf_seed": 1253.23
+  },
+  "D5": {
+   "id": "D5",
+   "series": "D",
+   "seed": 5,
+   "label": "5-D",
+   "name": "CrackMitalo",
+   "owner": "CrackMitalo",
+   "roster_id": 9,
+   "record": "3-2",
+   "pf_seed": 1230.7
+  },
+  "D6": {
+   "id": "D6",
+   "series": "D",
+   "seed": 6,
+   "label": "6-D",
+   "name": "Peladeiros FC",
+   "owner": "cachorrolouco777",
+   "roster_id": 6,
+   "record": "3-2",
+   "pf_seed": 1210.09
+  },
+  "D7": {
+   "id": "D7",
+   "series": "D",
+   "seed": 7,
+   "label": "7-D",
+   "name": "Baraunas Lions",
+   "owner": "ZeGomes1037",
+   "roster_id": 10,
+   "record": "3-2",
+   "pf_seed": 1101.51
+  },
+  "D8": {
+   "id": "D8",
+   "series": "D",
+   "seed": 8,
+   "label": "8-D",
+   "name": "SSS",
+   "owner": "beSSSa",
+   "roster_id": 1,
+   "record": "2-3",
+   "pf_seed": 1112.59
+  },
+  "D9": {
+   "id": "D9",
+   "series": "D",
+   "seed": 9,
+   "label": "9-D",
+   "name": "Call Me Mayebe",
+   "owner": "caiordgs",
+   "roster_id": 7,
+   "record": "2-3",
+   "pf_seed": 1088.63
+  },
+  "D10": {
+   "id": "D10",
+   "series": "D",
+   "seed": 10,
+   "label": "10-D",
+   "name": "Araguaia Fantasy",
+   "owner": "NeltonLopes",
+   "roster_id": 4,
+   "record": "1-4",
+   "pf_seed": 1087.88
+  },
+  "D11": {
+   "id": "D11",
+   "series": "D",
+   "seed": 11,
+   "label": "11-D",
+   "name": "Joabe929305",
+   "owner": "Joabe929305",
+   "roster_id": 11,
+   "record": "1-4",
+   "pf_seed": 1000.02
+  },
+  "D12": {
+   "id": "D12",
+   "series": "D",
+   "seed": 12,
+   "label": "12-D",
+   "name": "Lord Bo Nix",
+   "owner": "guipradela",
+   "roster_id": 5,
+   "record": "0-5",
+   "pf_seed": 1045.35
+  },
+  "E1": {
+   "id": "E1",
+   "series": "E",
+   "seed": 1,
+   "label": "1-E",
+   "name": "Khrstxn",
+   "owner": "Khrstxn",
+   "roster_id": 2,
+   "record": "5-0",
+   "pf_seed": 1208.84
+  },
+  "E2": {
+   "id": "E2",
+   "series": "E",
+   "seed": 2,
+   "label": "2-E",
+   "name": "pedrotti",
+   "owner": "pedrotti",
+   "roster_id": 11,
+   "record": "4-1",
+   "pf_seed": 1282.12
+  },
+  "E3": {
+   "id": "E3",
+   "series": "E",
+   "seed": 3,
+   "label": "3-E",
+   "name": "Explosion Raiders",
+   "owner": "Genys",
+   "roster_id": 1,
+   "record": "4-1",
+   "pf_seed": 1211.72
+  },
+  "E4": {
+   "id": "E4",
+   "series": "E",
+   "seed": 4,
+   "label": "4-E",
+   "name": "Mogi Lokomotiv",
+   "owner": "douglaslsalles",
+   "roster_id": 12,
+   "record": "3-2",
+   "pf_seed": 1389.32
+  },
+  "E5": {
+   "id": "E5",
+   "series": "E",
+   "seed": 5,
+   "label": "5-E",
+   "name": "MVP1727",
+   "owner": "MVP1727",
+   "roster_id": 5,
+   "record": "3-2",
+   "pf_seed": 1317.84
+  },
+  "E6": {
+   "id": "E6",
+   "series": "E",
+   "seed": 6,
+   "label": "6-E",
+   "name": "Gumagol971",
+   "owner": "Gumagol971",
+   "roster_id": 10,
+   "record": "3-2",
+   "pf_seed": 1169.3
+  },
+  "E7": {
+   "id": "E7",
+   "series": "E",
+   "seed": 7,
+   "label": "7-E",
+   "name": "Texão da Massa",
+   "owner": "RafaMartineli",
+   "roster_id": 7,
+   "record": "3-2",
+   "pf_seed": 1105.05
+  },
+  "E8": {
+   "id": "E8",
+   "series": "E",
+   "seed": 8,
+   "label": "8-E",
+   "name": "Felipesimoes",
+   "owner": "Felipesimoes",
+   "roster_id": 6,
+   "record": "2-3",
+   "pf_seed": 1156.02
+  },
+  "E9": {
+   "id": "E9",
+   "series": "E",
+   "seed": 9,
+   "label": "9-E",
+   "name": "frostzx",
+   "owner": "frostzx",
+   "roster_id": 9,
+   "record": "2-3",
+   "pf_seed": 1153.44
+  },
+  "E10": {
+   "id": "E10",
+   "series": "E",
+   "seed": 10,
+   "label": "10-E",
+   "name": "Cheesehead 🧀",
+   "owner": "Diegosep",
+   "roster_id": 3,
+   "record": "1-4",
+   "pf_seed": 1196.26
+  },
+  "E11": {
+   "id": "E11",
+   "series": "E",
+   "seed": 11,
+   "label": "11-E",
+   "name": "nearmie",
+   "owner": "nearmie",
+   "roster_id": 4,
+   "record": "0-5",
+   "pf_seed": 1151.4
+  },
+  "E12": {
+   "id": "E12",
+   "series": "E",
+   "seed": 12,
+   "label": "12-E",
+   "name": "Criciúma-Miners",
+   "owner": "MarcoKalfed",
+   "roster_id": 8,
+   "record": "0-5",
+   "pf_seed": 1086.23
+  }
+ },
+ "eliminated": {},
+ "standings": {
+  "A": [
+   {
+    "roster_id": 7,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1351.63,
+    "pa": 1217.6,
+    "name": "Bragil",
+    "owner": "Bragil",
+    "seed": 1
+   },
+   {
+    "roster_id": 8,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1285.17,
+    "pa": 1188.61,
+    "name": "Placa na Caveira",
+    "owner": "Rodra26",
+    "seed": 2
+   },
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1241.34,
+    "pa": 1185.82,
+    "name": "HÜGHNARØK",
+    "owner": "Kaveira",
+    "seed": 3
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1340.49,
+    "pa": 1287.63,
+    "name": "Dream Team",
+    "owner": "Allannn",
+    "seed": 4
+   },
+   {
+    "roster_id": 1,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1272.09,
+    "pa": 1208.89,
+    "name": "Direful Teachers",
+    "owner": "vsommah",
+    "seed": 5
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1246.12,
+    "pa": 1191.98,
+    "name": "TioDab",
+    "owner": "TioDab",
+    "seed": 6
+   },
+   {
+    "roster_id": 6,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1008.5,
+    "pa": 1025.13,
+    "name": "KriguerAntunes",
+    "owner": "KriguerAntunes",
+    "seed": 7
+   },
+   {
+    "roster_id": 4,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1165.68,
+    "pa": 1165.58,
+    "name": "Droid Hunters",
+    "owner": "Handreos",
+    "seed": 8
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1107.21,
+    "pa": 1118.06,
+    "name": "Manga5",
+    "owner": "Manga5",
+    "seed": 9
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1097.62,
+    "pa": 1198.72,
+    "name": "WuTeam",
+    "owner": "pedropennachi",
+    "seed": 10
+   },
+   {
+    "roster_id": 5,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1073.72,
+    "pa": 1254.11,
+    "name": "Wasted Years",
+    "owner": "chmenegatti",
+    "seed": 11
+   },
+   {
+    "roster_id": 9,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1062.48,
+    "pa": 1209.92,
+    "name": "Lutfi Lycans",
+    "owner": "renelutfi",
+    "seed": 12
+   }
+  ],
+  "B": [
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1304.01,
+    "pa": 1118.45,
+    "name": "packertricolor",
+    "owner": "packertricolor",
+    "seed": 1
+   },
+   {
+    "roster_id": 4,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1167.64,
+    "pa": 1060.78,
+    "name": "Buenos Aires Soldiers",
+    "owner": "AndreasGranado",
+    "seed": 2
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.11,
+    "pa": 1163.37,
+    "name": "MorandiHawks",
+    "owner": "MorandiHawks",
+    "seed": 3
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1208.54,
+    "pa": 1280.08,
+    "name": "Ravengers",
+    "owner": "Canastrao",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1017.56,
+    "pa": 1045.64,
+    "name": "ACosta13",
+    "owner": "ACosta13",
+    "seed": 5
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1233.81,
+    "pa": 1200.82,
+    "name": "MacedoSeahawks",
+    "owner": "MacedoSeahawks",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1221.9,
+    "pa": 1245.65,
+    "name": "mathestevo",
+    "owner": "mathestevo",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.58,
+    "pa": 1190.37,
+    "name": "helinhob",
+    "owner": "helinhob",
+    "seed": 8
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1144.13,
+    "pa": 1202.95,
+    "name": "Lecollas",
+    "owner": "Lecollas",
+    "seed": 9
+   },
+   {
+    "roster_id": 5,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1111.51,
+    "pa": 1106.02,
+    "name": "Cleytxs",
+    "owner": "Cleytxs",
+    "seed": 10
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1084.94,
+    "pa": 1233.54,
+    "name": "GORDINHAS AJEITADAS",
+    "owner": "Dedi",
+    "seed": 11
+   },
+   {
+    "roster_id": 10,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1104.34,
+    "pa": 1172.4,
+    "name": "alecromwell13",
+    "owner": "alecromwell13",
+    "seed": 12
+   }
+  ],
+  "C": [
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1304.01,
+    "pa": 1118.45,
+    "name": "packertricolor",
+    "owner": "packertricolor",
+    "seed": 1
+   },
+   {
+    "roster_id": 4,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1167.64,
+    "pa": 1060.78,
+    "name": "Buenos Aires Soldiers",
+    "owner": "AndreasGranado",
+    "seed": 2
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.11,
+    "pa": 1163.37,
+    "name": "MorandiHawks",
+    "owner": "MorandiHawks",
+    "seed": 3
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1208.54,
+    "pa": 1280.08,
+    "name": "Ravengers",
+    "owner": "Canastrao",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1017.56,
+    "pa": 1045.64,
+    "name": "ACosta13",
+    "owner": "ACosta13",
+    "seed": 5
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1233.81,
+    "pa": 1200.82,
+    "name": "MacedoSeahawks",
+    "owner": "MacedoSeahawks",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1221.9,
+    "pa": 1245.65,
+    "name": "mathestevo",
+    "owner": "mathestevo",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.58,
+    "pa": 1190.37,
+    "name": "helinhob",
+    "owner": "helinhob",
+    "seed": 8
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1144.13,
+    "pa": 1202.95,
+    "name": "Lecollas",
+    "owner": "Lecollas",
+    "seed": 9
+   },
+   {
+    "roster_id": 5,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1111.51,
+    "pa": 1106.02,
+    "name": "Cleytxs",
+    "owner": "Cleytxs",
+    "seed": 10
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1084.94,
+    "pa": 1233.54,
+    "name": "GORDINHAS AJEITADAS",
+    "owner": "Dedi",
+    "seed": 11
+   },
+   {
+    "roster_id": 10,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1104.34,
+    "pa": 1172.4,
+    "name": "alecromwell13",
+    "owner": "alecromwell13",
+    "seed": 12
+   }
+  ],
+  "D": [
+   {
+    "roster_id": 2,
+    "w": 5,
+    "l": 0,
+    "t": 0,
+    "pf": 1234.12,
+    "pa": 1131.92,
+    "name": "Green Bay Cheek Clappers",
+    "owner": "lucianooliveira21",
+    "seed": 1
+   },
+   {
+    "roster_id": 3,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1232.41,
+    "pa": 1109.39,
+    "name": "Piracicaba Ravens",
+    "owner": "IscadeTubarao",
+    "seed": 2
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.34,
+    "pa": 1165.26,
+    "name": "ZekMVP2022",
+    "owner": "ZekMVP2022",
+    "seed": 3
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1253.23,
+    "pa": 1159.78,
+    "name": "Osasco Pigeons",
+    "owner": "Duquefde",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1230.7,
+    "pa": 1024.5,
+    "name": "CrackMitalo",
+    "owner": "CrackMitalo",
+    "seed": 5
+   },
+   {
+    "roster_id": 6,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1210.09,
+    "pa": 1235.77,
+    "name": "Peladeiros FC",
+    "owner": "cachorrolouco777",
+    "seed": 6
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1101.51,
+    "pa": 1026.46,
+    "name": "Baraunas Lions",
+    "owner": "ZeGomes1037",
+    "seed": 7
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1112.59,
+    "pa": 1148.19,
+    "name": "SSS",
+    "owner": "beSSSa",
+    "seed": 8
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1088.63,
+    "pa": 1239.57,
+    "name": "Call Me Mayebe",
+    "owner": "caiordgs",
+    "seed": 9
+   },
+   {
+    "roster_id": 4,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1087.88,
+    "pa": 1156.97,
+    "name": "Araguaia Fantasy",
+    "owner": "NeltonLopes",
+    "seed": 10
+   },
+   {
+    "roster_id": 11,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1000.02,
+    "pa": 1198.58,
+    "name": "Joabe929305",
+    "owner": "Joabe929305",
+    "seed": 11
+   },
+   {
+    "roster_id": 5,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1045.35,
+    "pa": 1268.48,
+    "name": "Lord Bo Nix",
+    "owner": "guipradela",
+    "seed": 12
+   }
+  ],
+  "E": [
+   {
+    "roster_id": 2,
+    "w": 5,
+    "l": 0,
+    "t": 0,
+    "pf": 1208.84,
+    "pa": 1019.56,
+    "name": "Khrstxn",
+    "owner": "Khrstxn",
+    "seed": 1
+   },
+   {
+    "roster_id": 11,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1282.12,
+    "pa": 1229.83,
+    "name": "pedrotti",
+    "owner": "pedrotti",
+    "seed": 2
+   },
+   {
+    "roster_id": 1,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1211.72,
+    "pa": 1057.54,
+    "name": "Explosion Raiders",
+    "owner": "Genys",
+    "seed": 3
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1389.32,
+    "pa": 1318.43,
+    "name": "Mogi Lokomotiv",
+    "owner": "douglaslsalles",
+    "seed": 4
+   },
+   {
+    "roster_id": 5,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1317.84,
+    "pa": 1262.51,
+    "name": "MVP1727",
+    "owner": "MVP1727",
+    "seed": 5
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1169.3,
+    "pa": 1228.2,
+    "name": "Gumagol971",
+    "owner": "Gumagol971",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1105.05,
+    "pa": 1082.1,
+    "name": "Texão da Massa",
+    "owner": "RafaMartineli",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1156.02,
+    "pa": 1159.7,
+    "name": "Felipesimoes",
+    "owner": "Felipesimoes",
+    "seed": 8
+   },
+   {
+    "roster_id": 9,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.44,
+    "pa": 1212.61,
+    "name": "frostzx",
+    "owner": "frostzx",
+    "seed": 9
+   },
+   {
+    "roster_id": 3,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1196.26,
+    "pa": 1187.5,
+    "name": "Cheesehead 🧀",
+    "owner": "Diegosep",
+    "seed": 10
+   },
+   {
+    "roster_id": 4,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1151.4,
+    "pa": 1302.16,
+    "name": "nearmie",
+    "owner": "nearmie",
+    "seed": 11
+   },
+   {
+    "roster_id": 8,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1086.23,
+    "pa": 1367.4,
+    "name": "Criciúma-Miners",
+    "owner": "MarcoKalfed",
+    "seed": 12
+   }
+  ]
+ },
+ "rounds": [
+  {
+   "key": "f1",
+   "name": "Fase 1",
+   "weeks": [
+    6,
+    7
+   ],
+   "matches": [
+    {
+     "id": "F1-01",
+     "a": {
+      "id": "A5",
+      "series": "A",
+      "seed": 5,
+      "label": "5-A",
+      "name": "Direful Teachers",
+      "owner": "vsommah",
+      "roster_id": 1,
+      "record": "3-2",
+      "pf_seed": 1272.09
+     },
+     "b": {
+      "id": "E12",
+      "series": "E",
+      "seed": 12,
+      "label": "12-E",
+      "name": "Criciúma-Miners",
+      "owner": "MarcoKalfed",
+      "roster_id": 8,
+      "record": "0-5",
+      "pf_seed": 1086.23
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-02",
+     "a": {
+      "id": "A6",
+      "series": "A",
+      "seed": 6,
+      "label": "6-A",
+      "name": "TioDab",
+      "owner": "TioDab",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1246.12
+     },
+     "b": {
+      "id": "E11",
+      "series": "E",
+      "seed": 11,
+      "label": "11-E",
+      "name": "nearmie",
+      "owner": "nearmie",
+      "roster_id": 4,
+      "record": "0-5",
+      "pf_seed": 1151.4
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-03",
+     "a": {
+      "id": "A7",
+      "series": "A",
+      "seed": 7,
+      "label": "7-A",
+      "name": "KriguerAntunes",
+      "owner": "KriguerAntunes",
+      "roster_id": 6,
+      "record": "3-2",
+      "pf_seed": 1008.5
+     },
+     "b": {
+      "id": "E10",
+      "series": "E",
+      "seed": 10,
+      "label": "10-E",
+      "name": "Cheesehead 🧀",
+      "owner": "Diegosep",
+      "roster_id": 3,
+      "record": "1-4",
+      "pf_seed": 1196.26
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-04",
+     "a": {
+      "id": "A8",
+      "series": "A",
+      "seed": 8,
+      "label": "8-A",
+      "name": "Droid Hunters",
+      "owner": "Handreos",
+      "roster_id": 4,
+      "record": "2-3",
+      "pf_seed": 1165.68
+     },
+     "b": {
+      "id": "E9",
+      "series": "E",
+      "seed": 9,
+      "label": "9-E",
+      "name": "frostzx",
+      "owner": "frostzx",
+      "roster_id": 9,
+      "record": "2-3",
+      "pf_seed": 1153.44
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-05",
+     "a": {
+      "id": "A9",
+      "series": "A",
+      "seed": 9,
+      "label": "9-A",
+      "name": "Manga5",
+      "owner": "Manga5",
+      "roster_id": 11,
+      "record": "2-3",
+      "pf_seed": 1107.21
+     },
+     "b": {
+      "id": "E8",
+      "series": "E",
+      "seed": 8,
+      "label": "8-E",
+      "name": "Felipesimoes",
+      "owner": "Felipesimoes",
+      "roster_id": 6,
+      "record": "2-3",
+      "pf_seed": 1156.02
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-06",
+     "a": {
+      "id": "A10",
+      "series": "A",
+      "seed": 10,
+      "label": "10-A",
+      "name": "WuTeam",
+      "owner": "pedropennachi",
+      "roster_id": 3,
+      "record": "2-3",
+      "pf_seed": 1097.62
+     },
+     "b": {
+      "id": "E7",
+      "series": "E",
+      "seed": 7,
+      "label": "7-E",
+      "name": "Texão da Massa",
+      "owner": "RafaMartineli",
+      "roster_id": 7,
+      "record": "3-2",
+      "pf_seed": 1105.05
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-07",
+     "a": {
+      "id": "A11",
+      "series": "A",
+      "seed": 11,
+      "label": "11-A",
+      "name": "Wasted Years",
+      "owner": "chmenegatti",
+      "roster_id": 5,
+      "record": "0-5",
+      "pf_seed": 1073.72
+     },
+     "b": {
+      "id": "E6",
+      "series": "E",
+      "seed": 6,
+      "label": "6-E",
+      "name": "Gumagol971",
+      "owner": "Gumagol971",
+      "roster_id": 10,
+      "record": "3-2",
+      "pf_seed": 1169.3
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-08",
+     "a": {
+      "id": "A12",
+      "series": "A",
+      "seed": 12,
+      "label": "12-A",
+      "name": "Lutfi Lycans",
+      "owner": "renelutfi",
+      "roster_id": 9,
+      "record": "0-5",
+      "pf_seed": 1062.48
+     },
+     "b": {
+      "id": "E5",
+      "series": "E",
+      "seed": 5,
+      "label": "5-E",
+      "name": "MVP1727",
+      "owner": "MVP1727",
+      "roster_id": 5,
+      "record": "3-2",
+      "pf_seed": 1317.84
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-09",
+     "a": {
+      "id": "B1",
+      "series": "B",
+      "seed": 1,
+      "label": "1-B",
+      "name": "packertricolor",
+      "owner": "packertricolor",
+      "roster_id": 2,
+      "record": "4-1",
+      "pf_seed": 1304.01
+     },
+     "b": {
+      "id": "E4",
+      "series": "E",
+      "seed": 4,
+      "label": "4-E",
+      "name": "Mogi Lokomotiv",
+      "owner": "douglaslsalles",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1389.32
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-10",
+     "a": {
+      "id": "B2",
+      "series": "B",
+      "seed": 2,
+      "label": "2-B",
+      "name": "Buenos Aires Soldiers",
+      "owner": "AndreasGranado",
+      "roster_id": 4,
+      "record": "4-1",
+      "pf_seed": 1167.64
+     },
+     "b": {
+      "id": "E3",
+      "series": "E",
+      "seed": 3,
+      "label": "3-E",
+      "name": "Explosion Raiders",
+      "owner": "Genys",
+      "roster_id": 1,
+      "record": "4-1",
+      "pf_seed": 1211.72
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-11",
+     "a": {
+      "id": "B3",
+      "series": "B",
+      "seed": 3,
+      "label": "3-B",
+      "name": "MorandiHawks",
+      "owner": "MorandiHawks",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1268.11
+     },
+     "b": {
+      "id": "E2",
+      "series": "E",
+      "seed": 2,
+      "label": "2-E",
+      "name": "pedrotti",
+      "owner": "pedrotti",
+      "roster_id": 11,
+      "record": "4-1",
+      "pf_seed": 1282.12
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-12",
+     "a": {
+      "id": "B4",
+      "series": "B",
+      "seed": 4,
+      "label": "4-B",
+      "name": "Ravengers",
+      "owner": "Canastrao",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1208.54
+     },
+     "b": {
+      "id": "E1",
+      "series": "E",
+      "seed": 1,
+      "label": "1-E",
+      "name": "Khrstxn",
+      "owner": "Khrstxn",
+      "roster_id": 2,
+      "record": "5-0",
+      "pf_seed": 1208.84
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-13",
+     "a": {
+      "id": "B5",
+      "series": "B",
+      "seed": 5,
+      "label": "5-B",
+      "name": "ACosta13",
+      "owner": "ACosta13",
+      "roster_id": 9,
+      "record": "3-2",
+      "pf_seed": 1017.56
+     },
+     "b": {
+      "id": "D12",
+      "series": "D",
+      "seed": 12,
+      "label": "12-D",
+      "name": "Lord Bo Nix",
+      "owner": "guipradela",
+      "roster_id": 5,
+      "record": "0-5",
+      "pf_seed": 1045.35
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-14",
+     "a": {
+      "id": "B6",
+      "series": "B",
+      "seed": 6,
+      "label": "6-B",
+      "name": "MacedoSeahawks",
+      "owner": "MacedoSeahawks",
+      "roster_id": 11,
+      "record": "2-3",
+      "pf_seed": 1233.81
+     },
+     "b": {
+      "id": "D11",
+      "series": "D",
+      "seed": 11,
+      "label": "11-D",
+      "name": "Joabe929305",
+      "owner": "Joabe929305",
+      "roster_id": 11,
+      "record": "1-4",
+      "pf_seed": 1000.02
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-15",
+     "a": {
+      "id": "B7",
+      "series": "B",
+      "seed": 7,
+      "label": "7-B",
+      "name": "mathestevo",
+      "owner": "mathestevo",
+      "roster_id": 7,
+      "record": "2-3",
+      "pf_seed": 1221.9
+     },
+     "b": {
+      "id": "D10",
+      "series": "D",
+      "seed": 10,
+      "label": "10-D",
+      "name": "Araguaia Fantasy",
+      "owner": "NeltonLopes",
+      "roster_id": 4,
+      "record": "1-4",
+      "pf_seed": 1087.88
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-16",
+     "a": {
+      "id": "B8",
+      "series": "B",
+      "seed": 8,
+      "label": "8-B",
+      "name": "helinhob",
+      "owner": "helinhob",
+      "roster_id": 6,
+      "record": "2-3",
+      "pf_seed": 1153.58
+     },
+     "b": {
+      "id": "D9",
+      "series": "D",
+      "seed": 9,
+      "label": "9-D",
+      "name": "Call Me Mayebe",
+      "owner": "caiordgs",
+      "roster_id": 7,
+      "record": "2-3",
+      "pf_seed": 1088.63
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-17",
+     "a": {
+      "id": "B9",
+      "series": "B",
+      "seed": 9,
+      "label": "9-B",
+      "name": "Lecollas",
+      "owner": "Lecollas",
+      "roster_id": 3,
+      "record": "2-3",
+      "pf_seed": 1144.13
+     },
+     "b": {
+      "id": "D8",
+      "series": "D",
+      "seed": 8,
+      "label": "8-D",
+      "name": "SSS",
+      "owner": "beSSSa",
+      "roster_id": 1,
+      "record": "2-3",
+      "pf_seed": 1112.59
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-18",
+     "a": {
+      "id": "B10",
+      "series": "B",
+      "seed": 10,
+      "label": "10-B",
+      "name": "Cleytxs",
+      "owner": "Cleytxs",
+      "roster_id": 5,
+      "record": "2-3",
+      "pf_seed": 1111.51
+     },
+     "b": {
+      "id": "D7",
+      "series": "D",
+      "seed": 7,
+      "label": "7-D",
+      "name": "Baraunas Lions",
+      "owner": "ZeGomes1037",
+      "roster_id": 10,
+      "record": "3-2",
+      "pf_seed": 1101.51
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-19",
+     "a": {
+      "id": "B11",
+      "series": "B",
+      "seed": 11,
+      "label": "11-B",
+      "name": "GORDINHAS AJEITADAS",
+      "owner": "Dedi",
+      "roster_id": 1,
+      "record": "2-3",
+      "pf_seed": 1084.94
+     },
+     "b": {
+      "id": "D6",
+      "series": "D",
+      "seed": 6,
+      "label": "6-D",
+      "name": "Peladeiros FC",
+      "owner": "cachorrolouco777",
+      "roster_id": 6,
+      "record": "3-2",
+      "pf_seed": 1210.09
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-20",
+     "a": {
+      "id": "B12",
+      "series": "B",
+      "seed": 12,
+      "label": "12-B",
+      "name": "alecromwell13",
+      "owner": "alecromwell13",
+      "roster_id": 10,
+      "record": "1-4",
+      "pf_seed": 1104.34
+     },
+     "b": {
+      "id": "D5",
+      "series": "D",
+      "seed": 5,
+      "label": "5-D",
+      "name": "CrackMitalo",
+      "owner": "CrackMitalo",
+      "roster_id": 9,
+      "record": "3-2",
+      "pf_seed": 1230.7
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-21",
+     "a": {
+      "id": "C1",
+      "series": "C",
+      "seed": 1,
+      "label": "1-C",
+      "name": "packertricolor",
+      "owner": "packertricolor",
+      "roster_id": 2,
+      "record": "4-1",
+      "pf_seed": 1304.01
+     },
+     "b": {
+      "id": "D4",
+      "series": "D",
+      "seed": 4,
+      "label": "4-D",
+      "name": "Osasco Pigeons",
+      "owner": "Duquefde",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1253.23
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-22",
+     "a": {
+      "id": "C2",
+      "series": "C",
+      "seed": 2,
+      "label": "2-C",
+      "name": "Buenos Aires Soldiers",
+      "owner": "AndreasGranado",
+      "roster_id": 4,
+      "record": "4-1",
+      "pf_seed": 1167.64
+     },
+     "b": {
+      "id": "D3",
+      "series": "D",
+      "seed": 3,
+      "label": "3-D",
+      "name": "ZekMVP2022",
+      "owner": "ZekMVP2022",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1268.34
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-23",
+     "a": {
+      "id": "C3",
+      "series": "C",
+      "seed": 3,
+      "label": "3-C",
+      "name": "MorandiHawks",
+      "owner": "MorandiHawks",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1268.11
+     },
+     "b": {
+      "id": "D2",
+      "series": "D",
+      "seed": 2,
+      "label": "2-D",
+      "name": "Piracicaba Ravens",
+      "owner": "IscadeTubarao",
+      "roster_id": 3,
+      "record": "4-1",
+      "pf_seed": 1232.41
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-24",
+     "a": {
+      "id": "C4",
+      "series": "C",
+      "seed": 4,
+      "label": "4-C",
+      "name": "Ravengers",
+      "owner": "Canastrao",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1208.54
+     },
+     "b": {
+      "id": "D1",
+      "series": "D",
+      "seed": 1,
+      "label": "1-D",
+      "name": "Green Bay Cheek Clappers",
+      "owner": "lucianooliveira21",
+      "roster_id": 2,
+      "record": "5-0",
+      "pf_seed": 1234.12
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-25",
+     "a": {
+      "id": "C5",
+      "series": "C",
+      "seed": 5,
+      "label": "5-C",
+      "name": "ACosta13",
+      "owner": "ACosta13",
+      "roster_id": 9,
+      "record": "3-2",
+      "pf_seed": 1017.56
+     },
+     "b": {
+      "id": "C12",
+      "series": "C",
+      "seed": 12,
+      "label": "12-C",
+      "name": "alecromwell13",
+      "owner": "alecromwell13",
+      "roster_id": 10,
+      "record": "1-4",
+      "pf_seed": 1104.34
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-26",
+     "a": {
+      "id": "C6",
+      "series": "C",
+      "seed": 6,
+      "label": "6-C",
+      "name": "MacedoSeahawks",
+      "owner": "MacedoSeahawks",
+      "roster_id": 11,
+      "record": "2-3",
+      "pf_seed": 1233.81
+     },
+     "b": {
+      "id": "C11",
+      "series": "C",
+      "seed": 11,
+      "label": "11-C",
+      "name": "GORDINHAS AJEITADAS",
+      "owner": "Dedi",
+      "roster_id": 1,
+      "record": "2-3",
+      "pf_seed": 1084.94
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-27",
+     "a": {
+      "id": "C7",
+      "series": "C",
+      "seed": 7,
+      "label": "7-C",
+      "name": "mathestevo",
+      "owner": "mathestevo",
+      "roster_id": 7,
+      "record": "2-3",
+      "pf_seed": 1221.9
+     },
+     "b": {
+      "id": "C10",
+      "series": "C",
+      "seed": 10,
+      "label": "10-C",
+      "name": "Cleytxs",
+      "owner": "Cleytxs",
+      "roster_id": 5,
+      "record": "2-3",
+      "pf_seed": 1111.51
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F1-28",
+     "a": {
+      "id": "C8",
+      "series": "C",
+      "seed": 8,
+      "label": "8-C",
+      "name": "helinhob",
+      "owner": "helinhob",
+      "roster_id": 6,
+      "record": "2-3",
+      "pf_seed": 1153.58
+     },
+     "b": {
+      "id": "C9",
+      "series": "C",
+      "seed": 9,
+      "label": "9-C",
+      "name": "Lecollas",
+      "owner": "Lecollas",
+      "roster_id": 3,
+      "record": "2-3",
+      "pf_seed": 1144.13
+     },
+     "tbd_a": "",
+     "tbd_b": "",
+     "legs": [
+      {
+       "week": 6,
+       "state": "live",
+       "a": 0,
+       "b": 0
+      },
+      {
+       "week": 7,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": 0,
+     "total_b": 0,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  },
+  {
+   "key": "f2",
+   "name": "Fase 2",
+   "weeks": [
+    8,
+    9
+   ],
+   "matches": [
+    {
+     "id": "F2-01",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-02",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-03",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-04",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-05",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-06",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-07",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-08",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-09",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-10",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-11",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-12",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-13",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-14",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-15",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "F2-16",
+     "a": null,
+     "b": null,
+     "tbd_a": "A sortear",
+     "tbd_b": "A sortear",
+     "legs": [
+      {
+       "week": 8,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 9,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  },
+  {
+   "key": "r16",
+   "name": "Oitavas",
+   "weeks": [
+    10,
+    11
+   ],
+   "matches": [
+    {
+     "id": "R16-01",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-01",
+     "tbd_b": "Venc. F2-02",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-02",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-03",
+     "tbd_b": "Venc. F2-04",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-03",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-05",
+     "tbd_b": "Venc. F2-06",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-04",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-07",
+     "tbd_b": "Venc. F2-08",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-05",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-09",
+     "tbd_b": "Venc. F2-10",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-06",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-11",
+     "tbd_b": "Venc. F2-12",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-07",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-13",
+     "tbd_b": "Venc. F2-14",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "R16-08",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. F2-15",
+     "tbd_b": "Venc. F2-16",
+     "legs": [
+      {
+       "week": 10,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 11,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  },
+  {
+   "key": "qf",
+   "name": "Quartas",
+   "weeks": [
+    12,
+    13
+   ],
+   "matches": [
+    {
+     "id": "QF-01",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. R16-01",
+     "tbd_b": "Venc. R16-02",
+     "legs": [
+      {
+       "week": 12,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 13,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "QF-02",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. R16-03",
+     "tbd_b": "Venc. R16-04",
+     "legs": [
+      {
+       "week": 12,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 13,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "QF-03",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. R16-05",
+     "tbd_b": "Venc. R16-06",
+     "legs": [
+      {
+       "week": 12,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 13,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "QF-04",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. R16-07",
+     "tbd_b": "Venc. R16-08",
+     "legs": [
+      {
+       "week": 12,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 13,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  },
+  {
+   "key": "sf",
+   "name": "Semifinais",
+   "weeks": [
+    14,
+    15
+   ],
+   "matches": [
+    {
+     "id": "SF-01",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. QF-01",
+     "tbd_b": "Venc. QF-02",
+     "legs": [
+      {
+       "week": 14,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 15,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    },
+    {
+     "id": "SF-02",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. QF-03",
+     "tbd_b": "Venc. QF-04",
+     "legs": [
+      {
+       "week": 14,
+       "state": "future",
+       "a": null,
+       "b": null
+      },
+      {
+       "week": 15,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  },
+  {
+   "key": "final",
+   "name": "Final",
+   "weeks": [
+    17
+   ],
+   "matches": [
+    {
+     "id": "FINAL-01",
+     "a": null,
+     "b": null,
+     "tbd_a": "Venc. SF-01",
+     "tbd_b": "Venc. SF-02",
+     "legs": [
+      {
+       "week": 17,
+       "state": "future",
+       "a": null,
+       "b": null
+      }
+     ],
+     "total_a": null,
+     "total_b": null,
+     "winner": null,
+     "tiebreak": false
+    }
+   ]
+  }
+ ],
+ "draw": null,
+ "toilet": {
+  "week": 16,
+  "state": "future",
+  "ready": false,
+  "series": {
+   "A": {
+    "teams": [],
+    "loser": null
+   },
+   "B": {
+    "teams": [],
+    "loser": null
+   },
+   "C": {
+    "teams": [],
+    "loser": null
+   },
+   "D": {
+    "teams": [],
+    "loser": null
+   },
+   "E": {
+    "teams": [],
+    "loser": null
+   }
+  }
+ },
+ "champion": null,
+ "warnings": []
+}

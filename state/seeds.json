@@ -1,0 +1,675 @@
+{
+ "frozen_at": "2026-10-13T13:56:15+00:00",
+ "series": {
+  "A": [
+   {
+    "roster_id": 7,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1351.63,
+    "pa": 1217.6,
+    "name": "Bragil",
+    "owner": "Bragil",
+    "seed": 1
+   },
+   {
+    "roster_id": 8,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1285.17,
+    "pa": 1188.61,
+    "name": "Placa na Caveira",
+    "owner": "Rodra26",
+    "seed": 2
+   },
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1241.34,
+    "pa": 1185.82,
+    "name": "HÜGHNARØK",
+    "owner": "Kaveira",
+    "seed": 3
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1340.49,
+    "pa": 1287.63,
+    "name": "Dream Team",
+    "owner": "Allannn",
+    "seed": 4
+   },
+   {
+    "roster_id": 1,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1272.09,
+    "pa": 1208.89,
+    "name": "Direful Teachers",
+    "owner": "vsommah",
+    "seed": 5
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1246.12,
+    "pa": 1191.98,
+    "name": "TioDab",
+    "owner": "TioDab",
+    "seed": 6
+   },
+   {
+    "roster_id": 6,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1008.5,
+    "pa": 1025.13,
+    "name": "KriguerAntunes",
+    "owner": "KriguerAntunes",
+    "seed": 7
+   },
+   {
+    "roster_id": 4,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1165.68,
+    "pa": 1165.58,
+    "name": "Droid Hunters",
+    "owner": "Handreos",
+    "seed": 8
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1107.21,
+    "pa": 1118.06,
+    "name": "Manga5",
+    "owner": "Manga5",
+    "seed": 9
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1097.62,
+    "pa": 1198.72,
+    "name": "WuTeam",
+    "owner": "pedropennachi",
+    "seed": 10
+   },
+   {
+    "roster_id": 5,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1073.72,
+    "pa": 1254.11,
+    "name": "Wasted Years",
+    "owner": "chmenegatti",
+    "seed": 11
+   },
+   {
+    "roster_id": 9,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1062.48,
+    "pa": 1209.92,
+    "name": "Lutfi Lycans",
+    "owner": "renelutfi",
+    "seed": 12
+   }
+  ],
+  "B": [
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1304.01,
+    "pa": 1118.45,
+    "name": "packertricolor",
+    "owner": "packertricolor",
+    "seed": 1
+   },
+   {
+    "roster_id": 4,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1167.64,
+    "pa": 1060.78,
+    "name": "Buenos Aires Soldiers",
+    "owner": "AndreasGranado",
+    "seed": 2
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.11,
+    "pa": 1163.37,
+    "name": "MorandiHawks",
+    "owner": "MorandiHawks",
+    "seed": 3
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1208.54,
+    "pa": 1280.08,
+    "name": "Ravengers",
+    "owner": "Canastrao",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1017.56,
+    "pa": 1045.64,
+    "name": "ACosta13",
+    "owner": "ACosta13",
+    "seed": 5
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1233.81,
+    "pa": 1200.82,
+    "name": "MacedoSeahawks",
+    "owner": "MacedoSeahawks",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1221.9,
+    "pa": 1245.65,
+    "name": "mathestevo",
+    "owner": "mathestevo",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.58,
+    "pa": 1190.37,
+    "name": "helinhob",
+    "owner": "helinhob",
+    "seed": 8
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1144.13,
+    "pa": 1202.95,
+    "name": "Lecollas",
+    "owner": "Lecollas",
+    "seed": 9
+   },
+   {
+    "roster_id": 5,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1111.51,
+    "pa": 1106.02,
+    "name": "Cleytxs",
+    "owner": "Cleytxs",
+    "seed": 10
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1084.94,
+    "pa": 1233.54,
+    "name": "GORDINHAS AJEITADAS",
+    "owner": "Dedi",
+    "seed": 11
+   },
+   {
+    "roster_id": 10,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1104.34,
+    "pa": 1172.4,
+    "name": "alecromwell13",
+    "owner": "alecromwell13",
+    "seed": 12
+   }
+  ],
+  "C": [
+   {
+    "roster_id": 2,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1304.01,
+    "pa": 1118.45,
+    "name": "packertricolor",
+    "owner": "packertricolor",
+    "seed": 1
+   },
+   {
+    "roster_id": 4,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1167.64,
+    "pa": 1060.78,
+    "name": "Buenos Aires Soldiers",
+    "owner": "AndreasGranado",
+    "seed": 2
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.11,
+    "pa": 1163.37,
+    "name": "MorandiHawks",
+    "owner": "MorandiHawks",
+    "seed": 3
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1208.54,
+    "pa": 1280.08,
+    "name": "Ravengers",
+    "owner": "Canastrao",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1017.56,
+    "pa": 1045.64,
+    "name": "ACosta13",
+    "owner": "ACosta13",
+    "seed": 5
+   },
+   {
+    "roster_id": 11,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1233.81,
+    "pa": 1200.82,
+    "name": "MacedoSeahawks",
+    "owner": "MacedoSeahawks",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1221.9,
+    "pa": 1245.65,
+    "name": "mathestevo",
+    "owner": "mathestevo",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.58,
+    "pa": 1190.37,
+    "name": "helinhob",
+    "owner": "helinhob",
+    "seed": 8
+   },
+   {
+    "roster_id": 3,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1144.13,
+    "pa": 1202.95,
+    "name": "Lecollas",
+    "owner": "Lecollas",
+    "seed": 9
+   },
+   {
+    "roster_id": 5,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1111.51,
+    "pa": 1106.02,
+    "name": "Cleytxs",
+    "owner": "Cleytxs",
+    "seed": 10
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1084.94,
+    "pa": 1233.54,
+    "name": "GORDINHAS AJEITADAS",
+    "owner": "Dedi",
+    "seed": 11
+   },
+   {
+    "roster_id": 10,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1104.34,
+    "pa": 1172.4,
+    "name": "alecromwell13",
+    "owner": "alecromwell13",
+    "seed": 12
+   }
+  ],
+  "D": [
+   {
+    "roster_id": 2,
+    "w": 5,
+    "l": 0,
+    "t": 0,
+    "pf": 1234.12,
+    "pa": 1131.92,
+    "name": "Green Bay Cheek Clappers",
+    "owner": "lucianooliveira21",
+    "seed": 1
+   },
+   {
+    "roster_id": 3,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1232.41,
+    "pa": 1109.39,
+    "name": "Piracicaba Ravens",
+    "owner": "IscadeTubarao",
+    "seed": 2
+   },
+   {
+    "roster_id": 8,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1268.34,
+    "pa": 1165.26,
+    "name": "ZekMVP2022",
+    "owner": "ZekMVP2022",
+    "seed": 3
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1253.23,
+    "pa": 1159.78,
+    "name": "Osasco Pigeons",
+    "owner": "Duquefde",
+    "seed": 4
+   },
+   {
+    "roster_id": 9,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1230.7,
+    "pa": 1024.5,
+    "name": "CrackMitalo",
+    "owner": "CrackMitalo",
+    "seed": 5
+   },
+   {
+    "roster_id": 6,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1210.09,
+    "pa": 1235.77,
+    "name": "Peladeiros FC",
+    "owner": "cachorrolouco777",
+    "seed": 6
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1101.51,
+    "pa": 1026.46,
+    "name": "Baraunas Lions",
+    "owner": "ZeGomes1037",
+    "seed": 7
+   },
+   {
+    "roster_id": 1,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1112.59,
+    "pa": 1148.19,
+    "name": "SSS",
+    "owner": "beSSSa",
+    "seed": 8
+   },
+   {
+    "roster_id": 7,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1088.63,
+    "pa": 1239.57,
+    "name": "Call Me Mayebe",
+    "owner": "caiordgs",
+    "seed": 9
+   },
+   {
+    "roster_id": 4,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1087.88,
+    "pa": 1156.97,
+    "name": "Araguaia Fantasy",
+    "owner": "NeltonLopes",
+    "seed": 10
+   },
+   {
+    "roster_id": 11,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1000.02,
+    "pa": 1198.58,
+    "name": "Joabe929305",
+    "owner": "Joabe929305",
+    "seed": 11
+   },
+   {
+    "roster_id": 5,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1045.35,
+    "pa": 1268.48,
+    "name": "Lord Bo Nix",
+    "owner": "guipradela",
+    "seed": 12
+   }
+  ],
+  "E": [
+   {
+    "roster_id": 2,
+    "w": 5,
+    "l": 0,
+    "t": 0,
+    "pf": 1208.84,
+    "pa": 1019.56,
+    "name": "Khrstxn",
+    "owner": "Khrstxn",
+    "seed": 1
+   },
+   {
+    "roster_id": 11,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1282.12,
+    "pa": 1229.83,
+    "name": "pedrotti",
+    "owner": "pedrotti",
+    "seed": 2
+   },
+   {
+    "roster_id": 1,
+    "w": 4,
+    "l": 1,
+    "t": 0,
+    "pf": 1211.72,
+    "pa": 1057.54,
+    "name": "Explosion Raiders",
+    "owner": "Genys",
+    "seed": 3
+   },
+   {
+    "roster_id": 12,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1389.32,
+    "pa": 1318.43,
+    "name": "Mogi Lokomotiv",
+    "owner": "douglaslsalles",
+    "seed": 4
+   },
+   {
+    "roster_id": 5,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1317.84,
+    "pa": 1262.51,
+    "name": "MVP1727",
+    "owner": "MVP1727",
+    "seed": 5
+   },
+   {
+    "roster_id": 10,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1169.3,
+    "pa": 1228.2,
+    "name": "Gumagol971",
+    "owner": "Gumagol971",
+    "seed": 6
+   },
+   {
+    "roster_id": 7,
+    "w": 3,
+    "l": 2,
+    "t": 0,
+    "pf": 1105.05,
+    "pa": 1082.1,
+    "name": "Texão da Massa",
+    "owner": "RafaMartineli",
+    "seed": 7
+   },
+   {
+    "roster_id": 6,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1156.02,
+    "pa": 1159.7,
+    "name": "Felipesimoes",
+    "owner": "Felipesimoes",
+    "seed": 8
+   },
+   {
+    "roster_id": 9,
+    "w": 2,
+    "l": 3,
+    "t": 0,
+    "pf": 1153.44,
+    "pa": 1212.61,
+    "name": "frostzx",
+    "owner": "frostzx",
+    "seed": 9
+   },
+   {
+    "roster_id": 3,
+    "w": 1,
+    "l": 4,
+    "t": 0,
+    "pf": 1196.26,
+    "pa": 1187.5,
+    "name": "Cheesehead 🧀",
+    "owner": "Diegosep",
+    "seed": 10
+   },
+   {
+    "roster_id": 4,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1151.4,
+    "pa": 1302.16,
+    "name": "nearmie",
+    "owner": "nearmie",
+    "seed": 11
+   },
+   {
+    "roster_id": 8,
+    "w": 0,
+    "l": 5,
+    "t": 0,
+    "pf": 1086.23,
+    "pa": 1367.4,
+    "name": "Criciúma-Miners",
+    "owner": "MarcoKalfed",
+    "seed": 12
+   }
+  ]
+ }
+}
