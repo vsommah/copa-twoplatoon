@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T17:11:11+00:00",
+ "generated_at": "2026-10-18T19:33:36+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
  "nfl_week": 6,
@@ -1378,8 +1378,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 33.0,
-       "b": 12.5
+       "a": 122.1,
+       "b": 45.7
       },
       {
        "week": 7,
@@ -1388,8 +1388,8 @@
        "b": null
       }
      ],
-     "total_a": 33.0,
-     "total_b": 12.5,
+     "total_a": 122.1,
+     "total_b": 45.7,
      "winner": null,
      "tiebreak": false
     },
@@ -1423,8 +1423,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 46.9,
-       "b": 64.78
+       "a": 102.6,
+       "b": 87.78
       },
       {
        "week": 7,
@@ -1433,8 +1433,8 @@
        "b": null
       }
      ],
-     "total_a": 46.9,
-     "total_b": 64.78,
+     "total_a": 102.6,
+     "total_b": 87.78,
      "winner": null,
      "tiebreak": false
     },
@@ -1468,8 +1468,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 55.68,
-       "b": 18.5
+       "a": 113.28,
+       "b": 58.1
       },
       {
        "week": 7,
@@ -1478,8 +1478,8 @@
        "b": null
       }
      ],
-     "total_a": 55.68,
-     "total_b": 18.5,
+     "total_a": 113.28,
+     "total_b": 58.1,
      "winner": null,
      "tiebreak": false
     },
@@ -1513,8 +1513,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 68.6,
-       "b": 27.4
+       "a": 83.5,
+       "b": 77.9
       },
       {
        "week": 7,
@@ -1523,8 +1523,8 @@
        "b": null
       }
      ],
-     "total_a": 68.6,
-     "total_b": 27.4,
+     "total_a": 83.5,
+     "total_b": 77.9,
      "winner": null,
      "tiebreak": false
     },
@@ -1558,8 +1558,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 57.44,
-       "b": 51.5
+       "a": 126.24,
+       "b": 105.09
       },
       {
        "week": 7,
@@ -1568,8 +1568,8 @@
        "b": null
       }
      ],
-     "total_a": 57.44,
-     "total_b": 51.5,
+     "total_a": 126.24,
+     "total_b": 105.09,
      "winner": null,
      "tiebreak": false
     },
@@ -1603,8 +1603,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 13.5,
-       "b": 83.3
+       "a": 62.7,
+       "b": 131.0
       },
       {
        "week": 7,
@@ -1613,8 +1613,8 @@
        "b": null
       }
      ],
-     "total_a": 13.5,
-     "total_b": 83.3,
+     "total_a": 62.7,
+     "total_b": 131.0,
      "winner": null,
      "tiebreak": false
     },
@@ -1648,8 +1648,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 14.6,
-       "b": 38.6
+       "a": 76.94,
+       "b": 122.0
       },
       {
        "week": 7,
@@ -1658,8 +1658,8 @@
        "b": null
       }
      ],
-     "total_a": 14.6,
-     "total_b": 38.6,
+     "total_a": 76.94,
+     "total_b": 122.0,
      "winner": null,
      "tiebreak": false
     },
@@ -1693,8 +1693,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 35.0,
-       "b": 28.1
+       "a": 136.8,
+       "b": 94.8
       },
       {
        "week": 7,
@@ -1703,8 +1703,8 @@
        "b": null
       }
      ],
-     "total_a": 35.0,
-     "total_b": 28.1,
+     "total_a": 136.8,
+     "total_b": 94.8,
      "winner": null,
      "tiebreak": false
     },
@@ -1738,8 +1738,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 10.2,
-       "b": 72.74
+       "a": 81.2,
+       "b": 138.44
       },
       {
        "week": 7,
@@ -1748,8 +1748,8 @@
        "b": null
       }
      ],
-     "total_a": 10.2,
-     "total_b": 72.74,
+     "total_a": 81.2,
+     "total_b": 138.44,
      "winner": null,
      "tiebreak": false
     },
@@ -1783,8 +1783,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 39.9,
-       "b": 37.2
+       "a": 127.34,
+       "b": 157.64
       },
       {
        "week": 7,
@@ -1793,8 +1793,8 @@
        "b": null
       }
      ],
-     "total_a": 39.9,
-     "total_b": 37.2,
+     "total_a": 127.34,
+     "total_b": 157.64,
      "winner": null,
      "tiebreak": false
     },
@@ -1828,8 +1828,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 23.2,
-       "b": 63.24
+       "a": 108.8,
+       "b": 196.8
       },
       {
        "week": 7,
@@ -1838,8 +1838,8 @@
        "b": null
       }
      ],
-     "total_a": 23.2,
-     "total_b": 63.24,
+     "total_a": 108.8,
+     "total_b": 196.8,
      "winner": null,
      "tiebreak": false
     },
@@ -1873,8 +1873,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 63.8,
-       "b": 49.7
+       "a": 115.05,
+       "b": 124.0
       },
       {
        "week": 7,
@@ -1883,8 +1883,8 @@
        "b": null
       }
      ],
-     "total_a": 63.8,
-     "total_b": 49.7,
+     "total_a": 115.05,
+     "total_b": 124.0,
      "winner": null,
      "tiebreak": false
     },
@@ -1918,8 +1918,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 43.92,
-       "b": 63.44
+       "a": 141.72,
+       "b": 118.9
       },
       {
        "week": 7,
@@ -1928,8 +1928,8 @@
        "b": null
       }
      ],
-     "total_a": 43.92,
-     "total_b": 63.44,
+     "total_a": 141.72,
+     "total_b": 118.9,
      "winner": null,
      "tiebreak": false
     },
@@ -1963,8 +1963,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 21.4,
-       "b": 48.48
+       "a": 62.7,
+       "b": 113.68
       },
       {
        "week": 7,
@@ -1973,8 +1973,8 @@
        "b": null
       }
      ],
-     "total_a": 21.4,
-     "total_b": 48.48,
+     "total_a": 62.7,
+     "total_b": 113.68,
      "winner": null,
      "tiebreak": false
     },
@@ -2008,8 +2008,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 64.8,
-       "b": 48.8
+       "a": 152.75,
+       "b": 124.4
       },
       {
        "week": 7,
@@ -2018,8 +2018,8 @@
        "b": null
       }
      ],
-     "total_a": 64.8,
-     "total_b": 48.8,
+     "total_a": 152.75,
+     "total_b": 124.4,
      "winner": null,
      "tiebreak": false
     },
@@ -2053,8 +2053,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 22.78,
-       "b": 32.3
+       "a": 72.88,
+       "b": 137.84
       },
       {
        "week": 7,
@@ -2063,8 +2063,8 @@
        "b": null
       }
      ],
-     "total_a": 22.78,
-     "total_b": 32.3,
+     "total_a": 72.88,
+     "total_b": 137.84,
      "winner": null,
      "tiebreak": false
     },
@@ -2098,8 +2098,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 64.5,
-       "b": 38.8
+       "a": 157.24,
+       "b": 102.0
       },
       {
        "week": 7,
@@ -2108,8 +2108,8 @@
        "b": null
       }
      ],
-     "total_a": 64.5,
-     "total_b": 38.8,
+     "total_a": 157.24,
+     "total_b": 102.0,
      "winner": null,
      "tiebreak": false
     },
@@ -2143,8 +2143,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 41.5,
-       "b": 40.3
+       "a": 123.3,
+       "b": 71.3
       },
       {
        "week": 7,
@@ -2153,8 +2153,8 @@
        "b": null
       }
      ],
-     "total_a": 41.5,
-     "total_b": 40.3,
+     "total_a": 123.3,
+     "total_b": 71.3,
      "winner": null,
      "tiebreak": false
     },
@@ -2188,8 +2188,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 21.8,
-       "b": 41.4
+       "a": 41.1,
+       "b": 136.6
       },
       {
        "week": 7,
@@ -2198,8 +2198,8 @@
        "b": null
       }
      ],
-     "total_a": 21.8,
-     "total_b": 41.4,
+     "total_a": 41.1,
+     "total_b": 136.6,
      "winner": null,
      "tiebreak": false
     },
@@ -2233,8 +2233,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 24.2,
-       "b": 28.3
+       "a": 114.8,
+       "b": 77.16
       },
       {
        "week": 7,
@@ -2243,8 +2243,8 @@
        "b": null
       }
      ],
-     "total_a": 24.2,
-     "total_b": 28.3,
+     "total_a": 114.8,
+     "total_b": 77.16,
      "winner": null,
      "tiebreak": false
     },
@@ -2278,8 +2278,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 18.62,
-       "b": 17.2
+       "a": 82.88,
+       "b": 59.9
       },
       {
        "week": 7,
@@ -2288,8 +2288,8 @@
        "b": null
       }
      ],
-     "total_a": 18.62,
-     "total_b": 17.2,
+     "total_a": 82.88,
+     "total_b": 59.9,
      "winner": null,
      "tiebreak": false
     },
@@ -2323,8 +2323,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 67.5,
-       "b": 31.5
+       "a": 139.24,
+       "b": 112.0
       },
       {
        "week": 7,
@@ -2333,8 +2333,8 @@
        "b": null
       }
      ],
-     "total_a": 67.5,
-     "total_b": 31.5,
+     "total_a": 139.24,
+     "total_b": 112.0,
      "winner": null,
      "tiebreak": false
     },
@@ -2368,8 +2368,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 64.8,
-       "b": 39.84
+       "a": 121.3,
+       "b": 77.49
       },
       {
        "week": 7,
@@ -2378,8 +2378,8 @@
        "b": null
       }
      ],
-     "total_a": 64.8,
-     "total_b": 39.84,
+     "total_a": 121.3,
+     "total_b": 77.49,
      "winner": null,
      "tiebreak": false
     },
@@ -2413,8 +2413,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 4.74,
-       "b": 24.8
+       "a": 79.8,
+       "b": 88.0
       },
       {
        "week": 7,
@@ -2423,8 +2423,8 @@
        "b": null
       }
      ],
-     "total_a": 4.74,
-     "total_b": 24.8,
+     "total_a": 79.8,
+     "total_b": 88.0,
      "winner": null,
      "tiebreak": false
     },
@@ -2458,8 +2458,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 63.0,
-       "b": 30.0
+       "a": 133.04,
+       "b": 119.2
       },
       {
        "week": 7,
@@ -2468,8 +2468,8 @@
        "b": null
       }
      ],
-     "total_a": 63.0,
-     "total_b": 30.0,
+     "total_a": 133.04,
+     "total_b": 119.2,
      "winner": null,
      "tiebreak": false
     },
@@ -2503,8 +2503,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 51.3,
-       "b": 0.3
+       "a": 82.3,
+       "b": 25.0
       },
       {
        "week": 7,
@@ -2513,8 +2513,8 @@
        "b": null
       }
      ],
-     "total_a": 51.3,
-     "total_b": 0.3,
+     "total_a": 82.3,
+     "total_b": 25.0,
      "winner": null,
      "tiebreak": false
     },
@@ -2548,8 +2548,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 91.14,
-       "b": 9.0
+       "a": 130.84,
+       "b": 143.3
       },
       {
        "week": 7,
@@ -2558,8 +2558,8 @@
        "b": null
       }
      ],
-     "total_a": 91.14,
-     "total_b": 9.0,
+     "total_a": 130.84,
+     "total_b": 143.3,
      "winner": null,
      "tiebreak": false
     },
@@ -2593,8 +2593,8 @@
       {
        "week": 6,
        "state": "live",
-       "a": 32.7,
-       "b": 46.02
+       "a": 84.1,
+       "b": 115.82
       },
       {
        "week": 7,
@@ -2603,8 +2603,8 @@
        "b": null
       }
      ],
-     "total_a": 32.7,
-     "total_b": 46.02,
+     "total_a": 84.1,
+     "total_b": 115.82,
      "winner": null,
      "tiebreak": false
     }
