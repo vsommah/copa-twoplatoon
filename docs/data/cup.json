@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T23:26:31+00:00",
+ "generated_at": "2026-10-29T02:43:55+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
  "nfl_week": 8,
@@ -1414,11 +1414,11 @@
        "week": 7,
        "state": "done",
        "a": 281.68,
-       "b": 206.22
+       "b": 210.22
       }
      ],
      "total_a": 514.1,
-     "total_b": 423.92,
+     "total_b": 427.92,
      "winner": "A5",
      "tiebreak": false
     },
@@ -1459,11 +1459,11 @@
        "week": 7,
        "state": "done",
        "a": 231.93,
-       "b": 222.32
+       "b": 220.32
       }
      ],
      "total_a": 418.03,
-     "total_b": 399.2,
+     "total_b": 397.2,
      "winner": "A6",
      "tiebreak": false
     },
@@ -1593,11 +1593,11 @@
       {
        "week": 7,
        "state": "done",
-       "a": 195.16,
+       "a": 194.16,
        "b": 189.52
       }
      ],
-     "total_a": 387.0,
+     "total_a": 386.0,
      "total_b": 430.13,
      "winner": "E8",
      "tiebreak": false
@@ -1638,11 +1638,11 @@
       {
        "week": 7,
        "state": "done",
-       "a": 209.16,
+       "a": 213.16,
        "b": 218.18
       }
      ],
-     "total_a": 398.2,
+     "total_a": 402.2,
      "total_b": 422.1,
      "winner": "E7",
      "tiebreak": false
@@ -1773,11 +1773,11 @@
       {
        "week": 7,
        "state": "done",
-       "a": 208.32,
+       "a": 206.32,
        "b": 214.08
       }
      ],
-     "total_a": 407.32,
+     "total_a": 405.32,
      "total_b": 429.02,
      "winner": "E4",
      "tiebreak": false
@@ -1908,12 +1908,12 @@
       {
        "week": 7,
        "state": "done",
-       "a": 244.82,
-       "b": 214.58
+       "a": 248.82,
+       "b": 215.58
       }
      ],
-     "total_a": 473.69,
-     "total_b": 401.2,
+     "total_a": 477.69,
+     "total_b": 402.2,
      "winner": "B4",
      "tiebreak": false
     },
@@ -1999,11 +1999,11 @@
        "week": 7,
        "state": "done",
        "a": 207.82,
-       "b": 252.12
+       "b": 256.12
       }
      ],
      "total_a": 343.08,
-     "total_b": 446.5,
+     "total_b": 450.5,
      "winner": "D11",
      "tiebreak": false
     },
@@ -2044,11 +2044,11 @@
        "week": 7,
        "state": "done",
        "a": 215.2,
-       "b": 233.88
+       "b": 231.88
       }
      ],
      "total_a": 461.73,
-     "total_b": 428.82,
+     "total_b": 426.82,
      "winner": "B7",
      "tiebreak": false
     },
@@ -2224,11 +2224,11 @@
        "week": 7,
        "state": "done",
        "a": 232.08,
-       "b": 160.98
+       "b": 161.98
       }
      ],
      "total_a": 445.3,
-     "total_b": 365.15,
+     "total_b": 366.15,
      "winner": "B11",
      "tiebreak": false
     },
@@ -2358,11 +2358,11 @@
       {
        "week": 7,
        "state": "done",
-       "a": 192.94,
+       "a": 190.94,
        "b": 182.37
       }
      ],
-     "total_a": 384.54,
+     "total_a": 382.54,
      "total_b": 388.33,
      "winner": "D3",
      "tiebreak": false
@@ -2583,11 +2583,11 @@
       {
        "week": 7,
        "state": "done",
-       "a": 214.92,
+       "a": 218.92,
        "b": 173.42
       }
      ],
-     "total_a": 432.26,
+     "total_a": 436.26,
      "total_b": 428.88,
      "winner": "C7",
      "tiebreak": false
@@ -2629,11 +2629,11 @@
        "week": 7,
        "state": "done",
        "a": 178.8,
-       "b": 231.68
+       "b": 232.68
       }
      ],
      "total_a": 388.88,
-     "total_b": 456.2,
+     "total_b": 457.2,
      "winner": "C9",
      "tiebreak": false
     }
