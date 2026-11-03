@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T01:29:21+00:00",
+ "generated_at": "2026-11-03T08:31:25+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
- "nfl_week": 8,
+ "nfl_week": 9,
  "seeds_frozen": true,
  "teams": {
   "A1": {
@@ -2676,19 +2676,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
+       "state": "done",
        "a": 243.88,
-       "b": 192.32
+       "b": 230.68
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
      "total_a": 243.88,
-     "total_b": 192.32,
+     "total_b": 230.68,
      "winner": null,
      "tiebreak": false
     },
@@ -2721,19 +2721,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 191.28,
-       "b": 248.18
+       "state": "done",
+       "a": 221.98,
+       "b": 256.78
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 191.28,
-     "total_b": 248.18,
+     "total_a": 221.98,
+     "total_b": 256.78,
      "winner": null,
      "tiebreak": false
     },
@@ -2766,15 +2766,15 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
+       "state": "done",
        "a": 289.6,
        "b": 234.1
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
      "total_a": 289.6,
@@ -2811,19 +2811,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 229.8,
-       "b": 166.16
+       "state": "done",
+       "a": 245.1,
+       "b": 222.81
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 229.8,
-     "total_b": 166.16,
+     "total_a": 245.1,
+     "total_b": 222.81,
      "winner": null,
      "tiebreak": false
     },
@@ -2856,15 +2856,15 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
+       "state": "done",
        "a": 244.28,
        "b": 207.36
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
      "total_a": 244.28,
@@ -2901,18 +2901,18 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 128.34,
+       "state": "done",
+       "a": 183.54,
        "b": 283.38
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 128.34,
+     "total_a": 183.54,
      "total_b": 283.38,
      "winner": null,
      "tiebreak": false
@@ -2946,18 +2946,18 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 222.04,
+       "state": "done",
+       "a": 230.04,
        "b": 211.96
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 222.04,
+     "total_a": 230.04,
      "total_b": 211.96,
      "winner": null,
      "tiebreak": false
@@ -2991,19 +2991,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 170.76,
-       "b": 218.56
+       "state": "done",
+       "a": 185.76,
+       "b": 242.56
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 170.76,
-     "total_b": 218.56,
+     "total_a": 185.76,
+     "total_b": 242.56,
      "winner": null,
      "tiebreak": false
     },
@@ -3036,19 +3036,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 195.36,
-       "b": 156.78
+       "state": "done",
+       "a": 212.36,
+       "b": 172.78
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 195.36,
-     "total_b": 156.78,
+     "total_a": 212.36,
+     "total_b": 172.78,
      "winner": null,
      "tiebreak": false
     },
@@ -3081,18 +3081,18 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 262.0,
+       "state": "done",
+       "a": 274.0,
        "b": 233.66
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 262.0,
+     "total_a": 274.0,
      "total_b": 233.66,
      "winner": null,
      "tiebreak": false
@@ -3126,19 +3126,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 162.5,
-       "b": 221.66
+       "state": "done",
+       "a": 239.5,
+       "b": 249.96
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 162.5,
-     "total_b": 221.66,
+     "total_a": 239.5,
+     "total_b": 249.96,
      "winner": null,
      "tiebreak": false
     },
@@ -3171,15 +3171,15 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
+       "state": "done",
        "a": 251.36,
        "b": 224.83
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
      "total_a": 251.36,
@@ -3216,19 +3216,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 206.18,
-       "b": 205.76
+       "state": "done",
+       "a": 210.18,
+       "b": 291.36
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 206.18,
-     "total_b": 205.76,
+     "total_a": 210.18,
+     "total_b": 291.36,
      "winner": null,
      "tiebreak": false
     },
@@ -3261,19 +3261,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 238.6,
-       "b": 171.7
+       "state": "done",
+       "a": 267.3,
+       "b": 217.0
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 238.6,
-     "total_b": 171.7,
+     "total_a": 267.3,
+     "total_b": 217.0,
      "winner": null,
      "tiebreak": false
     },
@@ -3306,19 +3306,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 188.0,
-       "b": 156.0
+       "state": "done",
+       "a": 219.9,
+       "b": 203.32
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 188.0,
-     "total_b": 156.0,
+     "total_a": 219.9,
+     "total_b": 203.32,
      "winner": null,
      "tiebreak": false
     },
@@ -3351,19 +3351,19 @@
      "legs": [
       {
        "week": 8,
-       "state": "live",
-       "a": 213.34,
-       "b": 171.56
+       "state": "done",
+       "a": 239.64,
+       "b": 186.26
       },
       {
        "week": 9,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       }
      ],
-     "total_a": 213.34,
-     "total_b": 171.56,
+     "total_a": 239.64,
+     "total_b": 186.26,
      "winner": null,
      "tiebreak": false
     }
