@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:47:36+00:00",
+ "generated_at": "2026-11-16T18:12:46+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
  "nfl_week": 10,
@@ -3423,7 +3423,7 @@
       {
        "week": 10,
        "state": "live",
-       "a": 238.06,
+       "a": 238.26,
        "b": 231.28
       },
       {
@@ -3433,7 +3433,7 @@
        "b": null
       }
      ],
-     "total_a": 238.06,
+     "total_a": 238.26,
      "total_b": 231.28,
      "winner": null,
      "tiebreak": false
