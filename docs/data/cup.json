@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:12:46+00:00",
+ "generated_at": "2026-11-17T01:58:58+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
  "nfl_week": 10,
@@ -3423,7 +3423,7 @@
       {
        "week": 10,
        "state": "live",
-       "a": 238.26,
+       "a": 239.26,
        "b": 231.28
       },
       {
@@ -3433,7 +3433,7 @@
        "b": null
       }
      ],
-     "total_a": 238.26,
+     "total_a": 239.26,
      "total_b": 231.28,
      "winner": null,
      "tiebreak": false
@@ -3468,7 +3468,7 @@
       {
        "week": 10,
        "state": "live",
-       "a": 266.62,
+       "a": 268.62,
        "b": 251.52
       },
       {
@@ -3478,7 +3478,7 @@
        "b": null
       }
      ],
-     "total_a": 266.62,
+     "total_a": 268.62,
      "total_b": 251.52,
      "winner": null,
      "tiebreak": false
@@ -3603,8 +3603,8 @@
       {
        "week": 10,
        "state": "live",
-       "a": 232.48,
-       "b": 269.48
+       "a": 238.48,
+       "b": 270.48
       },
       {
        "week": 11,
@@ -3613,8 +3613,8 @@
        "b": null
       }
      ],
-     "total_a": 232.48,
-     "total_b": 269.48,
+     "total_a": 238.48,
+     "total_b": 270.48,
      "winner": null,
      "tiebreak": false
     },
@@ -3739,7 +3739,7 @@
        "week": 10,
        "state": "live",
        "a": 238.02,
-       "b": 201.92
+       "b": 204.32
       },
       {
        "week": 11,
@@ -3749,7 +3749,7 @@
       }
      ],
      "total_a": 238.02,
-     "total_b": 201.92,
+     "total_b": 204.32,
      "winner": null,
      "tiebreak": false
     }
