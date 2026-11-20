@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:07:34+00:00",
+ "generated_at": "2026-11-20T09:00:21+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
  "nfl_week": 11,
@@ -3429,12 +3429,12 @@
       {
        "week": 11,
        "state": "live",
-       "a": 0,
-       "b": 0
+       "a": 13.8,
+       "b": 36.0
       }
      ],
-     "total_a": 243.26,
-     "total_b": 231.28,
+     "total_a": 257.06,
+     "total_b": 267.28,
      "winner": null,
      "tiebreak": false
     },
@@ -3474,11 +3474,11 @@
       {
        "week": 11,
        "state": "live",
-       "a": 0,
+       "a": 15.8,
        "b": 0
       }
      ],
-     "total_a": 282.62,
+     "total_a": 298.42,
      "total_b": 252.52,
      "winner": null,
      "tiebreak": false
@@ -3519,11 +3519,11 @@
       {
        "week": 11,
        "state": "live",
-       "a": 0,
+       "a": 22.5,
        "b": 0
       }
      ],
-     "total_a": 286.82,
+     "total_a": 309.32,
      "total_b": 203.96,
      "winner": null,
      "tiebreak": false
@@ -3609,12 +3609,12 @@
       {
        "week": 11,
        "state": "live",
-       "a": 0,
-       "b": 0
+       "a": 9.5,
+       "b": 32.8
       }
      ],
-     "total_a": 249.48,
-     "total_b": 274.48,
+     "total_a": 258.98,
+     "total_b": 307.28,
      "winner": null,
      "tiebreak": false
     },
@@ -3655,11 +3655,11 @@
        "week": 11,
        "state": "live",
        "a": 0,
-       "b": 0
+       "b": 8.3
       }
      ],
      "total_a": 237.14,
-     "total_b": 232.66,
+     "total_b": 240.96,
      "winner": null,
      "tiebreak": false
     },
@@ -3700,11 +3700,11 @@
        "week": 11,
        "state": "live",
        "a": 0,
-       "b": 0
+       "b": 8.3
       }
      ],
      "total_a": 281.2,
-     "total_b": 209.92,
+     "total_b": 218.22,
      "winner": null,
      "tiebreak": false
     },
@@ -3745,11 +3745,11 @@
        "week": 11,
        "state": "live",
        "a": 0,
-       "b": 0
+       "b": 8.3
       }
      ],
      "total_a": 249.92,
-     "total_b": 227.92,
+     "total_b": 236.22,
      "winner": null,
      "tiebreak": false
     }
