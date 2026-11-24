@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T00:15:11+00:00",
+ "generated_at": "2026-11-24T10:19:17+00:00",
  "season": 2026,
  "title": "Copa TwoPlatoon",
- "nfl_week": 11,
+ "nfl_week": 12,
  "seeds_frozen": true,
  "teams": {
   "A1": {
@@ -710,7 +710,15 @@
   "A4": "Fase 2",
   "C7": "Fase 2",
   "C9": "Fase 2",
-  "E7": "Fase 2"
+  "E7": "Fase 2",
+  "E8": "Oitavas",
+  "E9": "Oitavas",
+  "C5": "Oitavas",
+  "D12": "Oitavas",
+  "A2": "Oitavas",
+  "B12": "Oitavas",
+  "A5": "Oitavas",
+  "D1": "Oitavas"
  },
  "standings": {
   "A": [
@@ -3428,14 +3436,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 205.1,
+       "state": "done",
+       "a": 253.26,
        "b": 137.18
       }
      ],
-     "total_a": 448.36,
+     "total_a": 496.52,
      "total_b": 368.46,
-     "winner": null,
+     "winner": "A1",
      "tiebreak": false
     },
     {
@@ -3473,14 +3481,14 @@
       },
       {
        "week": 11,
-       "state": "live",
+       "state": "done",
        "a": 285.7,
-       "b": 211.4
+       "b": 238.9
       }
      ],
      "total_a": 568.32,
-     "total_b": 463.92,
-     "winner": null,
+     "total_b": 491.42,
+     "winner": "B4",
      "tiebreak": false
     },
     {
@@ -3518,14 +3526,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 243.7,
-       "b": 190.85
+       "state": "done",
+       "a": 261.7,
+       "b": 217.75
       }
      ],
-     "total_a": 530.52,
-     "total_b": 394.81,
-     "winner": null,
+     "total_a": 548.52,
+     "total_b": 421.71,
+     "winner": "A3",
      "tiebreak": false
     },
     {
@@ -3563,14 +3571,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 251.96,
-       "b": 202.66
+       "state": "done",
+       "a": 261.46,
+       "b": 219.86
       }
      ],
-     "total_a": 531.08,
-     "total_b": 365.21,
-     "winner": null,
+     "total_a": 540.58,
+     "total_b": 382.41,
+     "winner": "C3",
      "tiebreak": false
     },
     {
@@ -3608,14 +3616,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 181.08,
+       "state": "done",
+       "a": 189.18,
        "b": 262.34
       }
      ],
-     "total_a": 430.56,
+     "total_a": 438.66,
      "total_b": 536.82,
-     "winner": null,
+     "winner": "E4",
      "tiebreak": false
     },
     {
@@ -3653,14 +3661,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 194.66,
-       "b": 137.7
+       "state": "done",
+       "a": 238.56,
+       "b": 185.6
       }
      ],
-     "total_a": 431.8,
-     "total_b": 370.36,
-     "winner": null,
+     "total_a": 475.7,
+     "total_b": 418.26,
+     "winner": "A6",
      "tiebreak": false
     },
     {
@@ -3698,14 +3706,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 222.66,
-       "b": 223.0
+       "state": "done",
+       "a": 244.66,
+       "b": 229.0
       }
      ],
-     "total_a": 503.86,
-     "total_b": 432.92,
-     "winner": null,
+     "total_a": 525.86,
+     "total_b": 438.92,
+     "winner": "E2",
      "tiebreak": false
     },
     {
@@ -3743,14 +3751,14 @@
       },
       {
        "week": 11,
-       "state": "live",
-       "a": 191.48,
-       "b": 211.06
+       "state": "done",
+       "a": 199.48,
+       "b": 242.16
       }
      ],
-     "total_a": 441.4,
-     "total_b": 438.98,
-     "winner": null,
+     "total_a": 449.4,
+     "total_b": 470.08,
+     "winner": "D3",
      "tiebreak": false
     }
    ]
@@ -3765,16 +3773,36 @@
    "matches": [
     {
      "id": "QF-01",
-     "a": null,
-     "b": null,
+     "a": {
+      "id": "A1",
+      "series": "A",
+      "seed": 1,
+      "label": "1-A",
+      "name": "Bragil",
+      "owner": "Bragil",
+      "roster_id": 7,
+      "record": "4-1",
+      "pf_seed": 1351.63
+     },
+     "b": {
+      "id": "B4",
+      "series": "B",
+      "seed": 4,
+      "label": "4-B",
+      "name": "Ravengers",
+      "owner": "Canastrao",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1208.54
+     },
      "tbd_a": "Venc. R16-01",
      "tbd_b": "Venc. R16-02",
      "legs": [
       {
        "week": 12,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       },
       {
        "week": 13,
@@ -3783,23 +3811,43 @@
        "b": null
       }
      ],
-     "total_a": null,
-     "total_b": null,
+     "total_a": 0,
+     "total_b": 0,
      "winner": null,
      "tiebreak": false
     },
     {
      "id": "QF-02",
-     "a": null,
-     "b": null,
+     "a": {
+      "id": "A3",
+      "series": "A",
+      "seed": 3,
+      "label": "3-A",
+      "name": "HÜGHNARØK",
+      "owner": "Kaveira",
+      "roster_id": 2,
+      "record": "4-1",
+      "pf_seed": 1241.34
+     },
+     "b": {
+      "id": "C3",
+      "series": "C",
+      "seed": 3,
+      "label": "3-C",
+      "name": "Eduardocfilho",
+      "owner": "Eduardocfilho",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1231.1
+     },
      "tbd_a": "Venc. R16-03",
      "tbd_b": "Venc. R16-04",
      "legs": [
       {
        "week": 12,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       },
       {
        "week": 13,
@@ -3808,23 +3856,43 @@
        "b": null
       }
      ],
-     "total_a": null,
-     "total_b": null,
+     "total_a": 0,
+     "total_b": 0,
      "winner": null,
      "tiebreak": false
     },
     {
      "id": "QF-03",
-     "a": null,
-     "b": null,
+     "a": {
+      "id": "E4",
+      "series": "E",
+      "seed": 4,
+      "label": "4-E",
+      "name": "Mogi Lokomotiv",
+      "owner": "douglaslsalles",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1389.32
+     },
+     "b": {
+      "id": "A6",
+      "series": "A",
+      "seed": 6,
+      "label": "6-A",
+      "name": "TioDab",
+      "owner": "TioDab",
+      "roster_id": 12,
+      "record": "3-2",
+      "pf_seed": 1246.12
+     },
      "tbd_a": "Venc. R16-05",
      "tbd_b": "Venc. R16-06",
      "legs": [
       {
        "week": 12,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       },
       {
        "week": 13,
@@ -3833,23 +3901,43 @@
        "b": null
       }
      ],
-     "total_a": null,
-     "total_b": null,
+     "total_a": 0,
+     "total_b": 0,
      "winner": null,
      "tiebreak": false
     },
     {
      "id": "QF-04",
-     "a": null,
-     "b": null,
+     "a": {
+      "id": "E2",
+      "series": "E",
+      "seed": 2,
+      "label": "2-E",
+      "name": "pedrotti",
+      "owner": "pedrotti",
+      "roster_id": 11,
+      "record": "4-1",
+      "pf_seed": 1282.12
+     },
+     "b": {
+      "id": "D3",
+      "series": "D",
+      "seed": 3,
+      "label": "3-D",
+      "name": "ZekMVP2022",
+      "owner": "ZekMVP2022",
+      "roster_id": 8,
+      "record": "3-2",
+      "pf_seed": 1268.34
+     },
      "tbd_a": "Venc. R16-07",
      "tbd_b": "Venc. R16-08",
      "legs": [
       {
        "week": 12,
-       "state": "future",
-       "a": null,
-       "b": null
+       "state": "live",
+       "a": 0,
+       "b": 0
       },
       {
        "week": 13,
@@ -3858,8 +3946,8 @@
        "b": null
       }
      ],
-     "total_a": null,
-     "total_b": null,
+     "total_a": 0,
+     "total_b": 0,
      "winner": null,
      "tiebreak": false
     }
@@ -4032,9 +4120,21 @@
    "A": {
     "teams": [
      {
+      "id": "A2",
+      "name": "Placa na Caveira",
+      "label": "2-A",
+      "pf": null
+     },
+     {
       "id": "A4",
       "name": "Dream Team",
       "label": "4-A",
+      "pf": null
+     },
+     {
+      "id": "A5",
+      "name": "Direful Teachers",
+      "label": "5-A",
       "pf": null
      },
      {
@@ -4137,6 +4237,12 @@
       "name": "GORDINHAS AJEITADAS",
       "label": "11-B",
       "pf": null
+     },
+     {
+      "id": "B12",
+      "name": "alecromwell13",
+      "label": "12-B",
+      "pf": null
      }
     ],
     "loser": null
@@ -4159,6 +4265,12 @@
       "id": "C4",
       "name": "Gleberson1914",
       "label": "4-C",
+      "pf": null
+     },
+     {
+      "id": "C5",
+      "name": "Green Bay Palmeiras",
+      "label": "5-C",
       "pf": null
      },
      {
@@ -4208,6 +4320,12 @@
    },
    "D": {
     "teams": [
+     {
+      "id": "D1",
+      "name": "Green Bay Cheek Clappers",
+      "label": "1-D",
+      "pf": null
+     },
      {
       "id": "D2",
       "name": "Piracicaba Ravens",
@@ -4261,6 +4379,12 @@
       "name": "Joabe929305",
       "label": "11-D",
       "pf": null
+     },
+     {
+      "id": "D12",
+      "name": "Lord Bo Nix",
+      "label": "12-D",
+      "pf": null
      }
     ],
     "loser": null
@@ -4295,6 +4419,18 @@
       "id": "E7",
       "name": "Texão da Massa",
       "label": "7-E",
+      "pf": null
+     },
+     {
+      "id": "E8",
+      "name": "Felipesimoes",
+      "label": "8-E",
+      "pf": null
+     },
+     {
+      "id": "E9",
+      "name": "frostzx",
+      "label": "9-E",
       "pf": null
      },
      {
